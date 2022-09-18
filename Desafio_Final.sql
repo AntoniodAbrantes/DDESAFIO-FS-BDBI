@@ -20,7 +20,7 @@ insert into Clientes (id, nome, rua, cidade, estado, limite) values
 select *from Clientes;
 
 insert into Clientes (id, nome, rua, cidade, estado, limite) values
-	(6, 'Antonio Lucas', 'Avenida Cabo Branco', 'João Pessoa', 'PB', 1000.00),
+    (6, 'Antonio Lucas', 'Avenida Cabo Branco', 'João Pessoa', 'PB', 1000.00),
     (7, 'Suelen Cristina' 'Rua Professora Eudesia', 'João Pessoa', 'PB', 300.00),
     (8, 'Natan', 'Avenida Epitacio Pessoa', 'João Pessoa', 'PB', 1500.00);
 select *from Clientes;
